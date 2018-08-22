@@ -8,3 +8,6 @@ end
 def using_pop(array, updated_array)
   array.pop(updated_array)
 end
+def pop_with_args(array)
+  array.pop(2)
+end
